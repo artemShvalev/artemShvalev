@@ -18,5 +18,5 @@
 
 ### Контакты:
 
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chamshell_) 
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:artem.shvalev.front@gmail.com)
+- Twitter: [![Twitter](https://img.shields.io/badge)](https://twitter.com/chamshell_) 
+- Email: [![Email](https://img.shields.io/badge)](mailto:artem.shvalev.front@gmail.com)
