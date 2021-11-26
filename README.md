@@ -12,7 +12,7 @@
 ### Инструмены и языки программирования:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-js-brightgreen??style=flat-square&logo=appveyor)
+![Vue](https://img.shields.io/badge/Vue-js-brightgreen??style=flat-square&logo=vue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-ruby%20on%20rails-red)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
