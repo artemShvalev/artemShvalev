@@ -9,7 +9,7 @@
 - 💼 Пишу музыку здесь вы можете с ней ознакомится[https://vk.com/easyloading];
 - 📫 Пиши на @mail по любым вопросам;
 
-### Инструмены и языки программирования:
+### Инструменты и языки программирования:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-js-brightgreen??style=flat-square&logo=#4FC08D)
